@@ -1,0 +1,424 @@
+{
+    semester: "Semester 1",
+        subjectDetails: [
+            {
+                subject: "Financial Accounting-I",
+                skillDetails: [
+                    {
+                        skill: "Accounting",
+                        skillWeight: 9.280701754385966,
+                        skillScore: "77.94",
+                        microSkills: {
+                            analyzed_skill: "Accounting",
+                            top_micro_skills: [
+                                {
+                                    skill: "Tally ERP",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af624d"
+                                },
+                                {
+                                    skill: "TDS",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af624e"
+                                },
+                                {
+                                    skill: "GST",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af624f"
+                                },
+                                {
+                                    skill: "Financial Accounting",
+                                    weight: 9.716417910447761,
+                                    _id: "67399b7b94a05a36d2af6250"
+                                },
+                                {
+                                    skill: "Reconciliation",
+                                    weight: 9.416666666666666,
+                                    _id: "67399b7b94a05a36d2af6251"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af624c"
+                    },
+                    {
+                        skill: "Financial Reporting",
+                        skillWeight: 8.626865671641792,
+                        skillScore: "72.93",
+                        microSkills: {
+                            analyzed_skill: "Financial Reporting",
+                            top_micro_skills: [
+                                {
+                                    skill: "GIPS Compliance",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6253"
+                                },
+                                {
+                                    skill: "GAAP Reporting",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6254"
+                                },
+                                {
+                                    skill: "Regulatory Reporting",
+                                    weight: 9.333333333333334,
+                                    _id: "67399b7b94a05a36d2af6255"
+                                },
+                                {
+                                    skill: "Preparation of Financial Statements",
+                                    weight: 9.142857142857142,
+                                    _id: "67399b7b94a05a36d2af6256"
+                                },
+                                {
+                                    skill: "Preparing Financial Statements",
+                                    weight: 9.071428571428571,
+                                    _id: "67399b7b94a05a36d2af6257"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6252"
+                    },
+                    {
+                        skill: "Financial Accounting",
+                        skillWeight: 8.568627450980392,
+                        skillScore: "72.42",
+                        microSkills: {
+                            analyzed_skill: "Financial Accounting",
+                            top_micro_skills: [
+                                {
+                                    skill: "Preparation of Financial Statements",
+                                    weight: 9.25,
+                                    _id: "67399b7b94a05a36d2af6259"
+                                },
+                                {
+                                    skill: "Accounts Receivable/Payable",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af625a"
+                                },
+                                {
+                                    skill: "Financial Statements Preparation",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af625b"
+                                },
+                                {
+                                    skill: "IFRS",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af625c"
+                                },
+                                {
+                                    skill: "General Ledger",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af625d"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6258"
+                    },
+                    {
+                        skill: "Financial Analysis",
+                        skillWeight: 8.407407407407407,
+                        skillScore: "73.27",
+                        microSkills: {
+                            analyzed_skill: "Financial Analysis",
+                            top_micro_skills: [
+                                {
+                                    skill: "Equity Analysis",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af625f"
+                                },
+                                {
+                                    skill: "Equity Valuation",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6260"
+                                },
+                                {
+                                    skill: "Derivative Analysis",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6261"
+                                },
+                                {
+                                    skill: "Portfolio Management",
+                                    weight: 9.857142857142858,
+                                    _id: "67399b7b94a05a36d2af6262"
+                                },
+                                {
+                                    skill: "Equity Research",
+                                    weight: 9.529411764705882,
+                                    _id: "67399b7b94a05a36d2af6263"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af625e"
+                    },
+                    {
+                        skill: "Auditing",
+                        skillWeight: 9.28,
+                        skillScore: "78.54",
+                        microSkills: {
+                            analyzed_skill: "Auditing",
+                            top_micro_skills: [
+                                {
+                                    skill: "Audit Planning",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6265"
+                                },
+                                {
+                                    skill: "Financial Auditing",
+                                    weight: 9.93939393939394,
+                                    _id: "67399b7b94a05a36d2af6266"
+                                },
+                                {
+                                    skill: "Compliance Auditing",
+                                    weight: 9.705882352941176,
+                                    _id: "67399b7b94a05a36d2af6267"
+                                },
+                                {
+                                    skill: "Internal Auditing",
+                                    weight: 9.384615384615385,
+                                    _id: "67399b7b94a05a36d2af6268"
+                                },
+                                {
+                                    skill: "Statutory Auditing",
+                                    weight: 8.625,
+                                    _id: "67399b7b94a05a36d2af6269"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6264"
+                    },
+                    {
+                        skill: "Taxation",
+                        skillWeight: 8.536082474226804,
+                        skillScore: "72.33",
+                        microSkills: {
+                            analyzed_skill: "Taxation",
+                            top_micro_skills: [
+                                {
+                                    skill: "TDS",
+                                    weight: 9.25,
+                                    _id: "67399b7b94a05a36d2af626b"
+                                },
+                                {
+                                    skill: "GST",
+                                    weight: 9.025,
+                                    _id: "67399b7b94a05a36d2af626c"
+                                },
+                                {
+                                    skill: "Tax Regulations",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af626d"
+                                },
+                                {
+                                    skill: "Income Tax Compliance",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af626e"
+                                },
+                                {
+                                    skill: "Tax Filing",
+                                    weight: 8.7,
+                                    _id: "67399b7b94a05a36d2af626f"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af626a"
+                    },
+                    {
+                        skill: "Corporate Laws",
+                        skillWeight: 7.666666666666667,
+                        skillScore: "65.19",
+                        microSkills: {
+                            analyzed_skill: "Corporate Laws",
+                            top_micro_skills: [
+                                {
+                                    skill: "Company Act",
+                                    weight: 8,
+                                    _id: "67399b7b94a05a36d2af6271"
+                                },
+                                {
+                                    skill: "Compliance Management",
+                                    weight: 7.666666666666667,
+                                    _id: "67399b7b94a05a36d2af6272"
+                                },
+                                {
+                                    skill: "SEBI Regulations",
+                                    weight: 7.666666666666667,
+                                    _id: "67399b7b94a05a36d2af6273"
+                                },
+                                {
+                                    skill: "Companies Act",
+                                    weight: 7.5,
+                                    _id: "67399b7b94a05a36d2af6274"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6270"
+                    },
+                    {
+                        skill: "Compliance",
+                        skillWeight: 7.928571428571429,
+                        skillScore: "67.41",
+                        microSkills: {
+                            analyzed_skill: "Compliance",
+                            top_micro_skills: [
+                                {
+                                    skill: "Audit and Compliance",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6276"
+                                },
+                                {
+                                    skill: "Internal Auditing",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6277"
+                                },
+                                {
+                                    skill: "Compliance Reporting",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6278"
+                                },
+                                {
+                                    skill: "Regulatory Compliance",
+                                    weight: 8.222222222222221,
+                                    _id: "67399b7b94a05a36d2af6279"
+                                },
+                                {
+                                    skill: "Reporting",
+                                    weight: 8,
+                                    _id: "67399b7b94a05a36d2af627a"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6275"
+                    },
+                    {
+                        skill: "Financial Regulations",
+                        skillWeight: 7,
+                        skillScore: "60.01",
+                        microSkills: {
+                            analyzed_skill: "Financial Regulations",
+                            top_micro_skills: [
+                                {
+                                    skill: "PMLA (Prevention of Money Laundering Act)",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af627c"
+                                },
+                                {
+                                    skill: "RBI Guidelines",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af627d"
+                                },
+                                {
+                                    skill: "AML Compliance",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af627e"
+                                },
+                                {
+                                    skill: "FEMA (Foreign Exchange Management Act)",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af627f"
+                                },
+                                {
+                                    skill: "KYC Compliance",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af6280"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af627b"
+                    },
+                    {
+                        skill: "Reconciliation",
+                        skillWeight: 10,
+                        skillScore: "85.00",
+                        microSkills: {
+                            analyzed_skill: "Reconciliation",
+                            top_micro_skills: [
+                                {
+                                    skill: "Financial Reconciliation",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6282"
+                                },
+                                {
+                                    skill: "Bank Reconciliation",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6283"
+                                },
+                                {
+                                    skill: "Account Reconciliation",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6284"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6281"
+                    },
+                    {
+                        skill: "Bookkeeping",
+                        skillWeight: 9,
+                        skillScore: "75.73",
+                        microSkills: {
+                            analyzed_skill: "Bookkeeping",
+                            top_micro_skills: [
+                                {
+                                    skill: "Payroll Processing",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6286"
+                                },
+                                {
+                                    skill: "Financial Reporting",
+                                    weight: 10,
+                                    _id: "67399b7b94a05a36d2af6287"
+                                },
+                                {
+                                    skill: "Bank Reconciliation",
+                                    weight: 9.25,
+                                    _id: "67399b7b94a05a36d2af6288"
+                                },
+                                {
+                                    skill: "Ledger Maintenance",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af6289"
+                                },
+                                {
+                                    skill: "Double Entry Bookkeeping",
+                                    weight: 9,
+                                    _id: "67399b7b94a05a36d2af628a"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af6285"
+                    }
+                ],
+                focusArea: [],
+                _id: "67399b7b94a05a36d2af624b"
+            },
+            {
+                subject: "Management Principles and Applications",
+                skillDetails: [
+                    {
+                        skill: "Business Administration",
+                        skillWeight: 7,
+                        skillScore: "63.70",
+                        microSkills: {
+                            analyzed_skill: "Business Administration",
+                            top_micro_skills: [
+                                {
+                                    skill: "Financial Accounting",
+                                    weight: 8,
+                                    _id: "67399b7b94a05a36d2af628d"
+                                },
+                                {
+                                    skill: "Business Law",
+                                    weight: 7,
+                                    _id: "67399b7b94a05a36d2af628e"
+                                },
+                                {
+                                    skill: "Project Management",
+                                    weight: 7,
+                                    _id: "67399b7b94a05a36d2af628f"
+                                }
+                            ]
+                        },
+                        _id: "67399b7b94a05a36d2af628c"
+                    }
+                ],
+            }
+        ]
+    }

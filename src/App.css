@@ -1,0 +1,124 @@
+font-face {
+  font-family: "Inter_Black";
+  src: url("../src/assets/fonts/static/Inter-Black.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_Bold";
+  src: url("../src/assets/fonts/static/Inter-Bold.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_ExtraBold";
+  src: url("../src/assets/fonts/static/Inter-ExtraBold.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_ExtraLight";
+  src: url("../src/assets/fonts/static/Inter-ExtraLight.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_Light";
+  src: url("../src/assets/fonts/static/Inter-Light.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_Medium";
+  src: url("../src/assets/fonts/static/Inter-Medium.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_Regular";
+  src: url("../src/assets/fonts/static/Inter-Regular.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_SemiBold";
+  src: url("../src/assets/fonts/static/Inter-SemiBold.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter_Thin";
+  src: url("../src/assets/fonts/static/Inter-Thin.ttf");
+}
+ 
+@font-face {
+  font-family: "Inter-VariableFont_slnt,wght";
+  src: url("../src/assets/fonts/static/Inter-VariableFont_slnt,wght.ttf");
+}
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 100%;
+}
+
+
+/* Font classes */
+.font-inter-black {
+  font-family: "Inter_Black", sans-serif;
+}
+
+.font-inter-bold {
+  font-family: "Inter_Bold", sans-serif;
+}
+
+.font-inter-extrabold {
+  font-family: "Inter_ExtraBold", sans-serif;
+}
+
+.font-inter-extralight {
+  font-family: "Inter_ExtraLight", sans-serif;
+}
+
+.font-inter-light {
+  font-family: "Inter_Light", sans-serif;
+}
+
+.font-inter-medium {
+  font-family: "Inter_Medium", sans-serif;
+}
+
+.font-inter-regular {
+  font-family: "Inter_Regular", sans-serif;
+}
+
+.font-inter-semibold {
+  font-family: "Inter_SemiBold", sans-serif;
+}
+
+.font-inter-thin {
+  font-family: "Inter_Thin", sans-serif;
+}
+
+.font-inter-variable {
+  font-family: "Inter-VariableFont_slnt,wght", sans-serif;
+}
+
+
+
+
+.scrollableContent::-webkit-scrollbar {
+  width: 4px  !important;
+}
+
+.scrollableContent::-webkit-scrollbar-thumb {
+  background-color: #ab92f7 !important; /* Purple color */
+  border-radius: 10px; /* Round corners */
+  border: 2px solid transparent; /* Optional border for a clearer thumb */
+}
+
+/* Style when the thumb is hovered */
+.scrollableContent::-webkit-scrollbar-thumb:hover {
+  background-color: #9b7df5 !important; /* Lighter purple when hovered */
+}
+
+/* Optional: Style the scrollbar track */
+.scrollableContent::-webkit-scrollbar-track {
+  background: transparent !important; /* No background */
+}
+
+
+.custom-progress-bar .progress-bar {
+  background-color: #b942f5 !important;
+}

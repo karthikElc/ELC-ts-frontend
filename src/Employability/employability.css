@@ -1,0 +1,20 @@
+
+.scrollableContent::-webkit-scrollbar {
+  width: 5px  important!;
+}
+
+.scrollableContent::-webkit-scrollbar-thumb {
+  background-color: #A78BFA; /* Purple color */
+  border-radius: 10px; /* Round corners */
+  border: 2px solid transparent; /* Optional border for a clearer thumb */
+}
+
+/* Style when the thumb is hovered */
+.scrollableContent::-webkit-scrollbar-thumb:hover {
+  background-color: #9b59b6; /* Lighter purple when hovered */
+}
+
+/* Optional: Style the scrollbar track */
+.scrollableContent::-webkit-scrollbar-track {
+  background: transparent; /* No background */
+}
